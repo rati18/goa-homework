@@ -1,0 +1,1 @@
+#integeri  ari ricxvebi ara atwiladebi mas viyenebt matematikuri kalkulaciebis gasaketeblat

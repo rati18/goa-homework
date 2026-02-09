@@ -1,0 +1,5 @@
+a=input("33+44")
+b=input("33/12") 
+g=input("3//8")
+d=input("60-10")
+e=input("90*90")

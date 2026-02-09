@@ -1,0 +1,1 @@
+#stringi aris asoebi da brwyalebsi casmuli cipric ar seileba gavaketot stringit matematikuri kalculaciebi 

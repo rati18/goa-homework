@@ -1,0 +1,5 @@
+name=input("whats you name?")
+lastname=input("what's you lastname?")
+age=input("how old are you")
+place_of_birth=input("what's you place of birth")
+print(name,lastname,age,place_of_birth)
